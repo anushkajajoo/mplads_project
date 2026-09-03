@@ -1,0 +1,13 @@
+﻿dataset,column_name,suggested_standard_name,data_type,total_rows,missing_count,missing_percentage,unique_count,unique_percentage,column_category,potential_join_key,sample_values,numeric_min,numeric_max,numeric_mean,numeric_median
+Works Sanctioned.csv,Sr. No.,sr_no,str,37001,0,0.0,37001,100.0,Other,No,1 | 2 | 3,,,,
+Works Sanctioned.csv,Work category,work_category,str,37001,0,0.0,5,0.01,Other,No,Normal/Others | Trust and Society | Repair and Renovation,,,,
+Works Sanctioned.csv,Work,work,str,37001,0,0.0,37001,100.0,Other,No,WS/	 MP620/2024-2025/133166-Construction of buildings for community cultural activities | WS/	 MP620/2025-2026/133167-Construction of rooms and halls in school and colleges | WS/	 MP620/2024-2025/133190-Construction of buildings for community cultural activities,,,,
+Works Sanctioned.csv,State,state,str,37001,0,0.0,34,0.09,Location,No,Karnataka | Bihar | West Bengal,,,,
+Works Sanctioned.csv,IDA,ida,str,37001,0,0.0,672,1.82,Identifier,Possible,DHARWAD(DEPUTY COMMISSIONER DHARWAR_IDA) | HAVERI(DEPUTY COMMISSIONER HAVERI_IDA) | ARARIA(DISTRICT PLANNING OFFICER ARARIA_IDA),,,,
+Works Sanctioned.csv,Hon'ble Members of Parliament,honble_members_of_parliament,str,37001,0,0.0,502,1.36,Text / Description,No,Pralhad Venkatesh Joshi | Pradeep Kumar Singh | Dr Sukanta Majumdar,,,,
+Works Sanctioned.csv,Constituency,constituency,str,37001,0,0.0,502,1.36,Location,No,DHARWAD | ARARIA | BALURGHAT,,,,
+Works Sanctioned.csv,Work description,work_description,str,37001,86,0.23,33724,91.14,Text / Description,No,Construction of Community Bhavan at Navalgund TQ Belavatagi Village Pry No 1/A Near Shivanand Math Continue Work | Construction of College room of  CBS Charitable Foudation at Nulvi Vilage Pry No 817/3 Continued work | Construction of Community Bhavan of Veerashaiv Jangam Society (R) at Ward No 21 Chidamarnagar Dharwad,,,,
+Works Sanctioned.csv,Recommended date,recommended_date,str,37001,0,0.0,365,0.99,Date / Time,No,08-Jul-24 | 09-Jul-24 | 12-Jul-24,,,,
+Works Sanctioned.csv,Sanction Date,sanction_date,str,37001,0,0.0,628,1.7,Date / Time,No,09-Jul-24 | 18-Sep-25 | 23-Sep-24,,,,
+Works Sanctioned.csv,Sanction Amount ( ₹ ),sanction_amount,str,37001,0,0.0,8898,24.05,Financial,No,497185 | 500000 | 450000,,,,
+Works Sanctioned.csv,Work Status,work_status,str,37001,0,0.0,7,0.02,Status,No,Physical Inspection | Sanction | Work partially Completed,,,,

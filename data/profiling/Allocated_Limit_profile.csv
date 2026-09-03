@@ -1,0 +1,6 @@
+﻿dataset,column_name,suggested_standard_name,data_type,total_rows,missing_count,missing_percentage,unique_count,unique_percentage,column_category,potential_join_key,sample_values,numeric_min,numeric_max,numeric_mean,numeric_median
+Allocated_Limit.csv,Sr. No.,sr_no,str,544,0,0.0,544,100.0,Other,No,1 | 2 | 3,,,,
+Allocated_Limit.csv,State,state,str,544,0,0.0,37,6.8,Location,No,Maharashtra | Jammu And Kashmir | Bihar,,,,
+Allocated_Limit.csv,Hon'ble Members of Parliaments,honble_members_of_parliaments,str,544,0,0.0,544,100.0,Text / Description,No,AASHTIKAR PATIL NAGESH BAPURAO | ABDUL RASHID SHEIKH | ABHAY KUMAR SINHA,,,,
+Allocated_Limit.csv,Constituency,constituency,str,544,0,0.0,543,99.82,Location,No,HINGOLI | BARAMULLAH | AURANGABAD_BR,,,,
+Allocated_Limit.csv,Allocated AMOUNT ( ₹ ),allocated_amount,str,544,1,0.18,153,28.12,Financial,No,190289442 | 154773472.11 | 147000000,,,,

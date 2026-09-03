@@ -1,0 +1,7 @@
+﻿dataset,rows,columns,exact_duplicate_rows,duplicate_column_names,total_missing_cells,columns_with_missing_values,numeric_columns,text_columns
+Allocated_Limit.csv,544,5,0,0,1,1,0,5
+Completed_On-going_Works.csv,8001,11,0,0,0,0,0,11
+consented_Calamity.csv,13,6,0,0,0,0,0,6
+Works Completed.csv,27001,11,0,0,8062,3,0,11
+Works Sanctioned.csv,37001,12,0,0,86,1,0,12
+Works_Recommended.csv,24963,11,0,0,5889,3,0,11

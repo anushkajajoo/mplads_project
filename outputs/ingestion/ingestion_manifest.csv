@@ -1,0 +1,7 @@
+﻿source_id,source_file,file_path,file_hash,file_size_bytes,row_count,column_count,encoding,status,error_message,ingested_at
+SRC001,Allocated_Limit.csv,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\data\raw\Allocated_Limit.csv,775f7cb9f3f29b180cb7461eae23215bc7faf6439760f5d7375a6755221bafd8,36142,544,5,utf-8,SUCCESS,,2026-09-03T21:33:23
+SRC002,Completed_On-going_Works.csv,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\data\raw\Completed_On-going_Works.csv,84e7f9ac8cd5aa5bbbbb46cb71d45e8692f27e678977bea70265e2289ab9f954,2044589,8001,11,utf-8,SUCCESS,,2026-09-03T21:33:23
+SRC003,consented_Calamity.csv,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\data\raw\consented_Calamity.csv,7f75cf2105b1084ac47ba5e4c6a794a3c878edea5d66bf47fdf6c9c26762e4d6,1336,13,6,utf-8,SUCCESS,,2026-09-03T21:33:23
+SRC004,Works Completed.csv,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\data\raw\Works Completed.csv,c1f5788fe6a094107005940debc2e9d1320836802d42681f096610c7eaef6c74,7978713,27001,11,utf-8,SUCCESS,,2026-09-03T21:33:24
+SRC005,Works Sanctioned.csv,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\data\raw\Works Sanctioned.csv,65de0a3f725df09c85f68ecbcf19c9ff6489063a00cb1f4a94e894fd0d6ab1f5,11831021,37001,12,utf-8,SUCCESS,,2026-09-03T21:33:24
+SRC006,Works_Recommended.csv,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\data\raw\Works_Recommended.csv,0f1a0b10e96343cdb3184f6d666647fa941aa12486853861fc92dcc659c301b7,8397021,24963,11,utf-8,SUCCESS,,2026-09-03T21:33:24

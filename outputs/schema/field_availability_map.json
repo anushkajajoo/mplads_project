@@ -1,0 +1,368 @@
+{
+    "generated_at": "2026-09-03T22:04:18.846987",
+    "phase": "Phase 1B - Schema Validation",
+    "mapping_source": "C:\\Users\\Anushka\\OneDrive\\Documents\\Desktop\\mplads_project\\outputs\\reports\\column_mapping_initial.csv",
+    "total_datasets": 6,
+    "passed": 6,
+    "failed": 0,
+    "datasets": {
+        "Allocated_Limit.csv": {
+            "schema_status": "PASSED",
+            "file": "Allocated_Limit.csv",
+            "rows": 544,
+            "columns": 5,
+            "source_columns": [
+                "Sr. No.",
+                "State",
+                "Hon'ble Members of Parliaments",
+                "Constituency",
+                "Allocated AMOUNT ( ₹ )"
+            ],
+            "required_fields": {
+                "state": {
+                    "status": "AVAILABLE",
+                    "source_column": "State"
+                },
+                "honble_members_of_parliaments": {
+                    "status": "AVAILABLE",
+                    "source_column": "Hon'ble Members of Parliaments"
+                },
+                "constituency": {
+                    "status": "AVAILABLE",
+                    "source_column": "Constituency"
+                },
+                "allocated_amount": {
+                    "status": "AVAILABLE",
+                    "source_column": "Allocated AMOUNT ( ₹ )"
+                }
+            },
+            "optional_fields": {
+                "sr_no": {
+                    "status": "AVAILABLE",
+                    "source_column": "Sr. No."
+                }
+            },
+            "missing_required_fields": []
+        },
+        "Completed_On-going_Works.csv": {
+            "schema_status": "PASSED",
+            "file": "Completed_On-going_Works.csv",
+            "rows": 8001,
+            "columns": 11,
+            "source_columns": [
+                "Sr. No.",
+                "State",
+                "Work",
+                "Work ID",
+                "IDA",
+                "Hon'ble Members of Parliament",
+                "Constituency",
+                "Expenditure Date",
+                "Vendor Name",
+                "Payment Status",
+                "Fund Disbursed Amount ( ₹ )"
+            ],
+            "required_fields": {
+                "work_id": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work ID"
+                },
+                "state": {
+                    "status": "AVAILABLE",
+                    "source_column": "State"
+                },
+                "work": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work"
+                },
+                "ida": {
+                    "status": "AVAILABLE",
+                    "source_column": "IDA"
+                },
+                "fund_disbursed_amount": {
+                    "status": "AVAILABLE",
+                    "source_column": "Fund Disbursed Amount ( ₹ )"
+                }
+            },
+            "optional_fields": {
+                "sr_no": {
+                    "status": "AVAILABLE",
+                    "source_column": "Sr. No."
+                },
+                "honble_members_of_parliament": {
+                    "status": "AVAILABLE",
+                    "source_column": "Hon'ble Members of Parliament"
+                },
+                "constituency": {
+                    "status": "AVAILABLE",
+                    "source_column": "Constituency"
+                },
+                "expenditure_date": {
+                    "status": "AVAILABLE",
+                    "source_column": "Expenditure Date"
+                },
+                "vendor_name": {
+                    "status": "AVAILABLE",
+                    "source_column": "Vendor Name"
+                },
+                "payment_status": {
+                    "status": "AVAILABLE",
+                    "source_column": "Payment Status"
+                }
+            },
+            "missing_required_fields": []
+        },
+        "consented_Calamity.csv": {
+            "schema_status": "PASSED",
+            "file": "consented_Calamity.csv",
+            "rows": 13,
+            "columns": 6,
+            "source_columns": [
+                "Sr. No.",
+                "Calamity Type",
+                "Calamity Name",
+                "Hon'ble Members of Parliament",
+                "Date of Consent",
+                "Consent Amount ( ₹ )"
+            ],
+            "required_fields": {
+                "calamity_type": {
+                    "status": "AVAILABLE",
+                    "source_column": "Calamity Type"
+                },
+                "calamity_name": {
+                    "status": "AVAILABLE",
+                    "source_column": "Calamity Name"
+                },
+                "honble_members_of_parliament": {
+                    "status": "AVAILABLE",
+                    "source_column": "Hon'ble Members of Parliament"
+                },
+                "date_of_consent": {
+                    "status": "AVAILABLE",
+                    "source_column": "Date of Consent"
+                },
+                "consent_amount": {
+                    "status": "AVAILABLE",
+                    "source_column": "Consent Amount ( ₹ )"
+                }
+            },
+            "optional_fields": {
+                "sr_no": {
+                    "status": "AVAILABLE",
+                    "source_column": "Sr. No."
+                }
+            },
+            "missing_required_fields": []
+        },
+        "Works Completed.csv": {
+            "schema_status": "PASSED",
+            "file": "Works Completed.csv",
+            "rows": 27001,
+            "columns": 11,
+            "source_columns": [
+                "Sr. No.",
+                "Work Category",
+                "Work",
+                "State",
+                "IDA",
+                "Work Description",
+                "Hon'ble Members of Parliament",
+                "Constituency",
+                "Image",
+                "Completion Date",
+                "Amount Disbursed ( ₹ )"
+            ],
+            "required_fields": {
+                "work": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work"
+                },
+                "state": {
+                    "status": "AVAILABLE",
+                    "source_column": "State"
+                },
+                "ida": {
+                    "status": "AVAILABLE",
+                    "source_column": "IDA"
+                },
+                "work_description": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work Description"
+                },
+                "completion_date": {
+                    "status": "AVAILABLE",
+                    "source_column": "Completion Date"
+                },
+                "amount_disbursed": {
+                    "status": "AVAILABLE",
+                    "source_column": "Amount Disbursed ( ₹ )"
+                }
+            },
+            "optional_fields": {
+                "sr_no": {
+                    "status": "AVAILABLE",
+                    "source_column": "Sr. No."
+                },
+                "work_category": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work Category"
+                },
+                "honble_members_of_parliament": {
+                    "status": "AVAILABLE",
+                    "source_column": "Hon'ble Members of Parliament"
+                },
+                "constituency": {
+                    "status": "AVAILABLE",
+                    "source_column": "Constituency"
+                },
+                "image": {
+                    "status": "AVAILABLE",
+                    "source_column": "Image"
+                }
+            },
+            "missing_required_fields": []
+        },
+        "Works Sanctioned.csv": {
+            "schema_status": "PASSED",
+            "file": "Works Sanctioned.csv",
+            "rows": 37001,
+            "columns": 12,
+            "source_columns": [
+                "Sr. No.",
+                "Work category",
+                "Work",
+                "State",
+                "IDA",
+                "Hon'ble Members of Parliament",
+                "Constituency",
+                "Work description",
+                "Recommended date",
+                "Sanction Date",
+                "Sanction Amount ( ₹ )",
+                "Work Status"
+            ],
+            "required_fields": {
+                "work": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work"
+                },
+                "state": {
+                    "status": "AVAILABLE",
+                    "source_column": "State"
+                },
+                "ida": {
+                    "status": "AVAILABLE",
+                    "source_column": "IDA"
+                },
+                "work_description": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work description"
+                },
+                "recommended_date": {
+                    "status": "AVAILABLE",
+                    "source_column": "Recommended date"
+                },
+                "sanction_date": {
+                    "status": "AVAILABLE",
+                    "source_column": "Sanction Date"
+                },
+                "sanction_amount": {
+                    "status": "AVAILABLE",
+                    "source_column": "Sanction Amount ( ₹ )"
+                },
+                "work_status": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work Status"
+                }
+            },
+            "optional_fields": {
+                "sr_no": {
+                    "status": "AVAILABLE",
+                    "source_column": "Sr. No."
+                },
+                "work_category": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work category"
+                },
+                "honble_members_of_parliament": {
+                    "status": "AVAILABLE",
+                    "source_column": "Hon'ble Members of Parliament"
+                },
+                "constituency": {
+                    "status": "AVAILABLE",
+                    "source_column": "Constituency"
+                }
+            },
+            "missing_required_fields": []
+        },
+        "Works_Recommended.csv": {
+            "schema_status": "PASSED",
+            "file": "Works_Recommended.csv",
+            "rows": 24963,
+            "columns": 11,
+            "source_columns": [
+                "Sr. No.",
+                "Work category",
+                "WORK",
+                "State",
+                "IDA",
+                "Hon'ble Members of Parliament",
+                "Elected/Nominated",
+                "Work description",
+                "Recommended date",
+                "RECOMMENDED AMOUNT   ( ₹ )",
+                "Sanction Date"
+            ],
+            "required_fields": {
+                "work": {
+                    "status": "AVAILABLE",
+                    "source_column": "WORK"
+                },
+                "state": {
+                    "status": "AVAILABLE",
+                    "source_column": "State"
+                },
+                "ida": {
+                    "status": "AVAILABLE",
+                    "source_column": "IDA"
+                },
+                "work_description": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work description"
+                },
+                "recommended_date": {
+                    "status": "AVAILABLE",
+                    "source_column": "Recommended date"
+                },
+                "recommended_amount": {
+                    "status": "AVAILABLE",
+                    "source_column": "RECOMMENDED AMOUNT   ( ₹ )"
+                }
+            },
+            "optional_fields": {
+                "sr_no": {
+                    "status": "AVAILABLE",
+                    "source_column": "Sr. No."
+                },
+                "work_category": {
+                    "status": "AVAILABLE",
+                    "source_column": "Work category"
+                },
+                "honble_members_of_parliament": {
+                    "status": "AVAILABLE",
+                    "source_column": "Hon'ble Members of Parliament"
+                },
+                "elected_nominated": {
+                    "status": "AVAILABLE",
+                    "source_column": "Elected/Nominated"
+                },
+                "sanction_date": {
+                    "status": "AVAILABLE",
+                    "source_column": "Sanction Date"
+                }
+            },
+            "missing_required_fields": []
+        }
+    }
+}

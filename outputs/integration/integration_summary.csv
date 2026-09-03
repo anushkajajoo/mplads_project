@@ -1,0 +1,18 @@
+﻿section,dataset,rows,columns,unique_work_keys,notes
+source_dataset,Allocated_Limit,543,7,,Allocation dataset
+source_dataset,Completed_On-going_Works,8000,23,6107,Ongoing expenditure dataset
+source_dataset,consented_Calamity,12,8,,Calamity consent dataset
+source_dataset,Works Completed,27000,23,27000,Completed works dataset
+source_dataset,Works Sanctioned,37000,23,37000,Sanctioned works dataset
+source_dataset,Works Recommended,24962,23,24411,Recommended works dataset
+integrated_master,work_master,73852,29,73852,Consolidated work lifecycle master
+integrated_master,allocation_master,543,4,,Allocation master
+integrated_master,calamity_master,12,8,,Calamity master
+current_stage,Sanctioned,37000,,,Current lifecycle stage
+current_stage,Recommended,24411,,,Current lifecycle stage
+current_stage,Completed,6334,,,Current lifecycle stage
+current_stage,Ongoing,6107,,,Current lifecycle stage
+lifecycle_status,Completed_Without_Full_History,27000,,,Lifecycle integration status
+lifecycle_status,Recommended_Only,24411,,,Lifecycle integration status
+lifecycle_status,Sanctioned_But_Not_Completed,16334,,,Lifecycle integration status
+lifecycle_status,Ongoing,6107,,,Lifecycle integration status

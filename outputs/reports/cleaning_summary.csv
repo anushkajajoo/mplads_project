@@ -1,0 +1,7 @@
+﻿dataset,original_rows,original_columns,empty_rows_removed,summary_rows_removed,duplicate_rows_removed,rows_after_cleaning,columns_after_cleaning,numeric_columns_converted,date_columns_converted,invalid_flags_created,missing_values_after_cleaning,output_file
+Allocated_Limit.csv,544,5,0,1,0,543,7,1,0,1,2,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\src\data\cleaned\cleaned_Allocated_Limit.csv
+Completed_On-going_Works.csv,8001,11,0,1,0,8000,13,1,1,1,0,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\src\data\cleaned\cleaned_Completed_On-going_Works.csv
+consented_Calamity.csv,13,6,0,1,0,12,8,1,1,1,0,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\src\data\cleaned\cleaned_consented_Calamity.csv
+Works Completed.csv,27001,11,0,1,0,27000,13,1,1,1,8089,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\src\data\cleaned\cleaned_Works Completed.csv
+Works Sanctioned.csv,37001,12,0,1,0,37000,14,1,2,1,86,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\src\data\cleaned\cleaned_Works Sanctioned.csv
+Works_Recommended.csv,24963,11,0,1,0,24962,13,1,2,1,5889,C:\Users\Anushka\OneDrive\Documents\Desktop\mplads_project\src\data\cleaned\cleaned_Works_Recommended.csv

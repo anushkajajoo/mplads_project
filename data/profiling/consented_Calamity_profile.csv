@@ -1,0 +1,7 @@
+﻿dataset,column_name,suggested_standard_name,data_type,total_rows,missing_count,missing_percentage,unique_count,unique_percentage,column_category,potential_join_key,sample_values,numeric_min,numeric_max,numeric_mean,numeric_median
+consented_Calamity.csv,Sr. No.,sr_no,str,13,0,0.0,13,100.0,Other,No,1 | 2 | 3,,,,
+consented_Calamity.csv,Calamity Type,calamity_type,str,13,0,0.0,3,23.08,Other,No,National Calamity | State Calamity |  ,,,,
+consented_Calamity.csv,Calamity Name,calamity_name,str,13,0,0.0,7,53.85,Text / Description,No,Flood 2025 in Punjab | Andhra Pradesh rainfall and consequent floods - 2024 | Meppadi landslides 2024,,,,
+consented_Calamity.csv,Hon'ble Members of Parliament,honble_members_of_parliament,str,13,0,0.0,11,84.62,Text / Description,No,Shri Gurjeet Singh Aujla | GURMEET SINGH MEET HAYER | Shri Jual Oram,,,,
+consented_Calamity.csv,Date of Consent,date_of_consent,str,13,0,0.0,12,92.31,Date / Time,No,07-Dec-2025 | 03-Nov-2025 | 10-Oct-2025,,,,
+consented_Calamity.csv,Consent Amount ( ₹ ),consent_amount,str,13,0,0.0,7,53.85,Financial,No,7067400 | 7500000 | 10000000,,,,

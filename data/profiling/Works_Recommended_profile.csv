@@ -1,0 +1,12 @@
+﻿dataset,column_name,suggested_standard_name,data_type,total_rows,missing_count,missing_percentage,unique_count,unique_percentage,column_category,potential_join_key,sample_values,numeric_min,numeric_max,numeric_mean,numeric_median
+Works_Recommended.csv,Sr. No.,sr_no,str,24963,0,0.0,24963,100.0,Other,No,1 | 2 | 3,,,,
+Works_Recommended.csv,Work category,work_category,str,24963,5,0.02,5,0.02,Other,No,Normal/Others | Repair and Renovation | Bar and Associations,,,,
+Works_Recommended.csv,WORK,work,str,24963,0,0.0,19193,76.89,Other,No,WS/MP187/2023-2024/1199-Construction of rooms and halls in school and colleges | WS/MP187/2023-2024/1200-Construction of rooms and halls in school and colleges | WS/MP187/2023-2024/1211-Construction of rooms and halls in school and colleges,,,,
+Works_Recommended.csv,State,state,str,24963,0,0.0,30,0.12,Location,No,Uttar Pradesh | Bihar | Madhya Pradesh,,,,
+Works_Recommended.csv,IDA,ida,str,24963,0,0.0,621,2.49,Identifier,Possible,SAMBHAL(DISTRICT MAGISTRAE BHIMNAGAR SAMBHAL_IDA) | ETAWAH(DISTRICT MAGISTRATE ETAWAH_IDA) | PATNA(DISTRICT PLANNING OFFICER PATNA_IDA),,,,
+Works_Recommended.csv,Hon'ble Members of Parliament,honble_members_of_parliament,str,24963,0,0.0,191,0.77,Text / Description,No,Shri Javed Ali Khan (2022-28) (2022-2028) | Shri Shambhu Sharan Patel (2022-28) (2022-2028) | Shri Mithlesh Kumar (2022-28) (2022-2028),,,,
+Works_Recommended.csv,Elected/Nominated,elected_nominated,str,24963,0,0.0,3,0.01,Other,No,Elected MP | Nominated MP |  ,,,,
+Works_Recommended.csv,Work description,work_description,str,24963,23,0.09,21920,87.81,Text / Description,No,Construction of Class room Sompal Singh Memorial Public School | Construction of Class room and Hall Sainik Veer Abdul Hamid Uchhtar madhyamik Vidyalaya | Construction of Classroom and hall Galaxy Public School lakhna,,,,
+Works_Recommended.csv,Recommended date,recommended_date,str,24963,0,0.0,970,3.89,Date / Time,No,14-Jun-23 | 19-Jun-23 | 21-Jun-23,,,,
+Works_Recommended.csv,RECOMMENDED AMOUNT   ( ₹ ),recommended_amount,str,24963,0,0.0,4979,19.95,Financial,No,1000000 | 1484933 | 1486089,,,,
+Works_Recommended.csv,Sanction Date,sanction_date,str,24963,5861,23.48,808,3.24,Date / Time,No,07-Nov-23 | 08-Dec-23 | 15-Mar-24,,,,

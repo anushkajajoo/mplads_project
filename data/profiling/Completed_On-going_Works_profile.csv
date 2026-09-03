@@ -1,0 +1,12 @@
+﻿dataset,column_name,suggested_standard_name,data_type,total_rows,missing_count,missing_percentage,unique_count,unique_percentage,column_category,potential_join_key,sample_values,numeric_min,numeric_max,numeric_mean,numeric_median
+Completed_On-going_Works.csv,Sr. No.,sr_no,str,8001,0,0.0,8001,100.0,Other,No,1 | 2 | 3,,,,
+Completed_On-going_Works.csv,State,state,str,8001,0,0.0,35,0.44,Location,No,Uttar Pradesh | Odisha | Karnataka,,,,
+Completed_On-going_Works.csv,Work,work,str,8001,0,0.0,94,1.17,Other,No,"Construction of roads, link roads, pathways or any other road with or without drainage system | Construction of community centers and community halls | Construction of additional rooms and halls in the existing public and community building",,,,
+Completed_On-going_Works.csv,Work ID,work_id,str,8001,0,0.0,6108,76.34,Identifier,Possible,WS/MP18218/2025-2026/233777 | WS/MP18218/2025-2026/233878 | WS/MP18218/2025-2026/233781,,,,
+Completed_On-going_Works.csv,IDA,ida,str,8001,0,0.0,589,7.36,Identifier,Possible,GHAZIABAD(DISTRICT MAGISTRAE GHAZIABAD_IDA) | Sundaragada(DISTRICT COLLECTOR SUNDARGARH_IDA) | CHITRADURGA(DEPUTY COMMISSIONER CHITRADURGA_IDA),,,,
+Completed_On-going_Works.csv,Hon'ble Members of Parliament,honble_members_of_parliament,str,8001,0,0.0,460,5.75,Text / Description,No,ATUL GARG | Shri Jual Oram | GOVIND MAKTHAPPA KARJOL,,,,
+Completed_On-going_Works.csv,Constituency,constituency,str,8001,0,0.0,460,5.75,Location,No,GHAZIABAD | SUNDARGARH (ST) | CHITRADURGA(SC),,,,
+Completed_On-going_Works.csv,Expenditure Date,expenditure_date,str,8001,0,0.0,167,2.09,Date / Time,No,21-Aug-2026 | 04-Aug-2026 | 31-Aug-2026,,,,
+Completed_On-going_Works.csv,Vendor Name,vendor_name,str,8001,0,0.0,4682,58.52,Text / Description,No,DARSH BUILDCON | MEMBER SECY OB AND OC WWB BBSR | KRIDL BHUSIRI ACCOUNT WORKS,,,,
+Completed_On-going_Works.csv,Payment Status,payment_status,str,8001,0,0.0,3,0.04,Financial,No,Payment In-Progress | Payment Success |  ,,,,
+Completed_On-going_Works.csv,Fund Disbursed Amount ( ₹ ),fund_disbursed_amount,str,8001,0,0.0,3938,49.22,Financial,No,799146 | 832080 | 498309,,,,
